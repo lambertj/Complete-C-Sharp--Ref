@@ -1,0 +1,12 @@
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\bin\Debug\netcoreapp3.1\Boolean.exe
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\bin\Debug\netcoreapp3.1\Boolean.deps.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\bin\Debug\netcoreapp3.1\Boolean.runtimeconfig.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\bin\Debug\netcoreapp3.1\Boolean.runtimeconfig.dev.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\bin\Debug\netcoreapp3.1\Boolean.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\bin\Debug\netcoreapp3.1\Boolean.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\obj\Debug\netcoreapp3.1\Boolean.AssemblyInfoInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\obj\Debug\netcoreapp3.1\Boolean.AssemblyInfo.cs
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\obj\Debug\netcoreapp3.1\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\obj\Debug\netcoreapp3.1\Boolean.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\obj\Debug\netcoreapp3.1\Boolean.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Boolean\Boolean\obj\Debug\netcoreapp3.1\Boolean.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\bin\Debug\netcoreapp3.1\While.exe
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\bin\Debug\netcoreapp3.1\While.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\obj\Debug\netcoreapp3.1\While.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\obj\Debug\netcoreapp3.1\While.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\While\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache

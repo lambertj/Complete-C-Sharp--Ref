@@ -1,0 +1,12 @@
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.exe
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.deps.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.runtimeconfig.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.runtimeconfig.dev.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\bin\Debug\netcoreapp3.1\Prop.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.AssemblyInfoInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.AssemblyInfo.cs
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Prop\Prop\obj\Debug\netcoreapp3.1\Prop.genruntimeconfig.cache

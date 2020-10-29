@@ -1,0 +1,12 @@
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\bin\Debug\netcoreapp3.1\Inher.exe
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\bin\Debug\netcoreapp3.1\Inher.deps.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\bin\Debug\netcoreapp3.1\Inher.runtimeconfig.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\bin\Debug\netcoreapp3.1\Inher.runtimeconfig.dev.json
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\bin\Debug\netcoreapp3.1\Inher.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\bin\Debug\netcoreapp3.1\Inher.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\obj\Debug\netcoreapp3.1\Inher.AssemblyInfoInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\obj\Debug\netcoreapp3.1\Inher.AssemblyInfo.cs
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\obj\Debug\netcoreapp3.1\Inher.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\obj\Debug\netcoreapp3.1\Inher.dll
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\obj\Debug\netcoreapp3.1\Inher.pdb
+C:\Users\Abhishek Sinha\Downloads\Compressed\C-Sharp\Inher\Inher\obj\Debug\netcoreapp3.1\Inher.genruntimeconfig.cache
